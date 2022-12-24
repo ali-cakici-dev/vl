@@ -1,0 +1,17 @@
+{
+  "apps": [{
+    "name": "demo_vl",
+    "script": "./demo.py",
+    "args": "--com-port /dev/ttyUSB0 --gui",
+    "interpreter": "python3",
+    "time": true,
+    "watch": true,
+    "ignore_watch": [
+      "./third_party/verifone",
+      "./restart.sh",
+      ".git",
+      ".idea",
+      "./files",
+      "./"
+    ]
+  }]}

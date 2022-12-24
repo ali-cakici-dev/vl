@@ -1,0 +1,9 @@
+crcmod==1.7
+docopt==0.6.2
+protobuf-3.12.2-py2.py3-none-any.whl
+pyserial==3.4
+six==1.11.0
+termcolor==1.1.0
+prompt_toolkit==2.0.10
+pyaes==1.6.1
+rsa==4.7.2
